@@ -1,2 +1,2 @@
 # iptables-gui
-iptables GUI made by Claude AI 
+iptables GUI made by AI 
