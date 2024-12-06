@@ -1,3 +1,4 @@
+#notomoto2 is gui web app to manage iptables  
 from flask import Flask, render_template_string, request, redirect, jsonify
 import subprocess
 import re
